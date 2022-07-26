@@ -36,6 +36,6 @@ B. Names of input and output files should be specified as command line arguments
 
 C. Provide a README file explaining how to deploy and use the program
 
-D. Sometimes the input file is corrupted. Analyse the problem with the file and enhance your program so that it can correctly analyse `data_cases_corrupted.csv` (output as per `indicators_corrupted.yml`)
+D. Sometimes the input file is corrupted. Analyse the problem with the file and enhance your program so that it can correctly analyse `data_cases_corrupted.csv` (output as per `indicators_corrupted.json`)
 
 E. Enhance your program to output more advanced indicators as in the `advanced_indicators_1.json` example file.
