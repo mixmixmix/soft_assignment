@@ -28,7 +28,7 @@ The input file `data_*.csv` is a list of reports from one of 5 different localit
 
 ## Tasks:
 
-There are four main tasks A-D. Even if you are not able to complete all the tasks, make sure your program is functioning and well documented. You can use any technology stack you prefer, however you need to provide clear instructions on how to deploy your program.
+There are five main tasks A-E. Even if you are not able to complete all the tasks, make sure your program is functioning and well documented. You can use any technology stack you prefer, however you need to provide clear instructions on how to deploy your program.
 
 A. Your program reads in two input csv files, `data_cases_1.csv` with records of cases of animal diseases, and `disease_list.csv` that contains names of the diseases. Your first task is to extract some summary statistics from those files to produce the output in a valid json file. See provided example `indicators_1.json` ). Make sure your output matches the example, and your program works correctly on `data_cases_2.csv` as well. 
 
