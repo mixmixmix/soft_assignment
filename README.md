@@ -6,7 +6,7 @@ In this assignment, your task is to write and document a command line program (i
 
 ## Instructions:
 
-1. All the source code and documentation need to be committed to a public repository on Github (https://github.com, you might need to create an account if you don't have one already) and the link to this repository has to be sent by email to musa.bayoh@fao.org by Saturday 30th July 2300 
+1. All the source code and documentation need to be committed to a public repository on Github (https://github.com, you might need to create an account if you don't have one already) and the link to this repository has to be sent by email to musa.bayoh@fao.org by Sunday 31st July 2300 (11PM) 
 
 2. You are free to choose any non-legacy technology, your code needs to run in the command line terminal on any modern linux server, or windows/macos desktop.
 
